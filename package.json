@@ -1,10 +1,9 @@
 {
   "version": "0.0.0",
   "private": true,
-  "name": "angular-phonecat",
-  "description": "A tutorial application for AngularJS",
+  "name": "AngularJS_Tests",
+  "description": "AngularJS_Tests",
   "repository": "https://github.com/Kayodan/AngularJS_Tests",
-  "license": "MIT",
   "devDependencies": {
     "http-server": "^0.6.1",
     "tmp": "0.0.23",
