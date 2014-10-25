@@ -5,3 +5,7 @@ tmp
 .idea
 .DS_Store
 bower_components/
+/.settings/
+/.project
+/.tern-project
+/.gitignore
